@@ -6,11 +6,11 @@ Docente: Ing.Darwin Alulema
 
 Integrantes:
 
-Guano Ariel
+• Guano Ariel
 
-Tituaña Nayely
+• Tituaña Nayely
 
-Tonato Anthony
+• Tonato Anthony
 
 Semestre: Segundo
 
@@ -24,7 +24,7 @@ TEMA: CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 Objetivo General
 
-* Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica.
+• Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica.
 
 Objetivos especificos
 
