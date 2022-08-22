@@ -37,3 +37,6 @@ Objetivos especificos
 • Conocer las partes por la que está formada una Onda senoidal para tener un mejor entendimiento a la hora de ponerlas en práctica.
 
 2.- MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/105722861/186027899-de872597-eb1c-436a-be58-a0cabcc90e07.png)
+
