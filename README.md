@@ -62,7 +62,7 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 4.1.2 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/105722861/186041375-cc5d4b02-50a3-4701-a1a6-e98b5cc4fa8d.png)
+![image](https://user-images.githubusercontent.com/105722861/186041490-d3e3de32-ad16-4f20-8761-1a1863b69ada.png)
 
 4.2 Responder las preguntas
 
