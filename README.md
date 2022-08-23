@@ -90,9 +90,7 @@ Periodo: 0,4ms
 
 4.2.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-Frecuencia= 1/T =1/0.04ms= 2500Hz
-
-Frecuencia angular(ω): 2pi/T =2pi/0.4ms=15707.96 rad/s
+![image](https://user-images.githubusercontent.com/105722861/186043363-770763a1-f3dc-48d9-bd0d-bf908d2fca00.png)
 
 4.2.7 Con el multímetro digital mida el voltaje de salida en RL:
 
