@@ -100,7 +100,11 @@ Periodo: 0,4ms
 
 ¿Coinciden? 
 
+No coinciden
+
 ¿Por qué?
+
+Porque cuando medimos corriente CA con el multímetro nos da el valor de voltaje en rms en cambio al utilizar el oscilosopio nos da el voltaje máximo directamente.
 
 5.- VIDEO
 
@@ -114,6 +118,14 @@ Periodo: 0,4ms
 
 • Con esta práctica aprendimos a usar un poco más el Osciloscopio y a dominar valores como voltaje pico, frecuencia de la tensión y la fabricación de ondas senoidales.
 
+• Observamos la gran diferencia de medidicion del multimetro en el simulador en cual nos entrega en rms mientras que en el osciloscopio podemos emdir con mas precision.
+
+• LLegamos a las conclusion que el ocsiloscopio es una herramienta para medir de forma cualitativa y cuantitativa a diferencia del multimetro que es una analogo
+
 7.- BIBLIOGRAFÍA
+
+Anonimo. (19 de Abril de 2014). Final Test. Obtenido de Ondas Senoidales: https://www.finaltest.com.mx/product-p/art-9.htm
+
+Ponce, R. (12 de Noviembre de 2011). Blogger. Obtenido de Uso del osciloscopio y formas de ondas: https://rubenponce-electronica14.blogspot.com/2011/11/
 
 
