@@ -38,7 +38,11 @@ Objetivos especificos
 
 2.- MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/105722861/186071563-a83de743-c47b-4e72-8621-0fdfea000891.png)
+
 ![image](https://user-images.githubusercontent.com/105722861/186027899-de872597-eb1c-436a-be58-a0cabcc90e07.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186071602-6c6e376f-e78f-42fc-a748-4b19fb197c62.png)
 
 Información:
 
