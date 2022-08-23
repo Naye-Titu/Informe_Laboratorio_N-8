@@ -68,23 +68,31 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 4.2.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
+Abarca dos cuadros y un cuarto de cuadro aproximadamente
+
 4.2.2 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+
+En 3 Volts/div
 
 4.2.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Cuatro cuadros abarca un ciclo
+
 4.2.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+
+En 0.1m time/div
 
 4.2.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: (V)
+Amplitud de voltaje: 6,85V 
 
-Periodo:(s)
+Periodo: 0,4ms
 
 4.2.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f:(Hz)
+Frecuencia= 1/T =1/0.04ms= 2500Hz
 
-ω: (rad/s)
+Frecuencia angular(ω): 2pi/T =2pi/0.4ms=15707.96 rad/s
 
 4.2.7 Con el multímetro digital mida el voltaje de salida en RL:
 
