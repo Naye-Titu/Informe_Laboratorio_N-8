@@ -88,6 +88,8 @@ f:(Hz)
 
 4.2.7 Con el multímetro digital mida el voltaje de salida en RL:
 
+![image](https://user-images.githubusercontent.com/105722861/186041741-5f857da3-edd9-49b6-beee-0f79a834f3dc.png)
+
 4.2.8 Compare el voltaje medido en el punto 4.2.5 y el obtenido en el punto 4.2.7
 
 ¿Coinciden? 
