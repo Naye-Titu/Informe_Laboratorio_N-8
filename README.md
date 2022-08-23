@@ -110,6 +110,8 @@ Porque cuando medimos corriente CA con el multímetro nos da el valor de voltaje
 
 5.- VIDEO
 
+https://www.youtube.com/watch?v=ToumjS5UyYA
+
 6.- CONCLUSIONES 
 
 • Al haber realizado la práctica de laboratorio concluimos que una Onda senoidal es muy útil en Corriente Alterna para poder representar el valor de la tensión a través de un tiempo continuamente variable.
